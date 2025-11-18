@@ -3,7 +3,7 @@
   "jupyter-config-data": {
     "appUrl": "./lab/index.html"
   },
-  "files": [
+  "files": []
     {
       "pattern": "notebooks/**/*.ipynb"
     },
